@@ -4,7 +4,7 @@ National Security Agency (NSA) security/motivational posters from the 1950s and 
 
 For some reason I love these and use them as a screen saver.
 
-The original FOIA PDF release can be found here: [NSASecurityPosters_1950s-60s.pdf](NSASecurityPosters_1950s-60s.pdf).
+The original FOIA PDF release can be found here: [NSASecurityPosters_1950s-60s.pdf](./NSAsecurityPosters_1950s-60s.pdf)
 
 ## Example Images
 
