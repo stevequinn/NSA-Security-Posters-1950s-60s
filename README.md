@@ -8,10 +8,10 @@ The original FOIA PDF release can be found here: [NSASecurityPosters_1950s-60s.p
 
 ## Example Images
 
-![Image 1](./NSAsecurityPosters_1950s-60s%20173-34.jpeg)
+![Image 1](./images/NSAsecurityPosters_1950s-60s%20173-34.jpeg)
 
-![Image 2](./NSAsecurityPosters_1950s-60s%20144-5.jpeg)
+![Image 2](./images/NSAsecurityPosters_1950s-60s%20144-5.jpeg)
 
-![Image 3](./NSAsecurityPosters_1950s-60s%20149-10.jpeg)
+![Image 3](./images/NSAsecurityPosters_1950s-60s%20149-10.jpeg)
 
-![Image 4](./NSAsecurityPosters_1950s-60s%20146-7.jpeg)
+![Image 4](./images/NSAsecurityPosters_1950s-60s%20146-7.jpeg)
